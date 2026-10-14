@@ -1,0 +1,25 @@
+# Tutorial — Users — METAMASK_EXTENSION
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** METAMASK_EXTENSION | Category: CRYPTOCURRENCY
+**Upstream:** https://github.com/MetaMask/metamask-extension (MIT)
+
+## Overview
+
+This document covers tutorial — users for the Anticloud integration of METAMASK_EXTENSION.
+
+Browser wallet for crypto
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into METAMASK_EXTENSION to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg

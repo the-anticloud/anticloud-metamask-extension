@@ -1,0 +1,10 @@
+{
+  "project": "METAMASK_EXTENSION",
+  "category": "CRYPTOCURRENCY",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CRYPTOCURRENCY\\METAMASK_EXTENSION",
+  "status": "bench_timeout",
+  "reason": "exceeded 600s cap",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
